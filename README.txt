@@ -54,8 +54,8 @@ The Scrolling Background:
 Credits:
 
 	Background Image:
-		Ryan Schroeder via Unsplash (unsplash.com - CC0 licensed)
-			"Icefields" (flickr.com/photos/ryanschroeder/11876741703)
+		NEXT Academy via Unsplash (unsplash.com - CC0 licensed)
+			"Icefields" (https://unsplash.com/photos/G6k_uEjXygE)
 
 	Icons:
 		Font Awesome (fontawesome.io)
